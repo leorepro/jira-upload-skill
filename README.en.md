@@ -32,7 +32,7 @@ The skill enforces secure token handling — your Atlassian API token is sourced
 
 ```bash
 # Clone or download this repo
-git clone https://github.com/<your-username>/jira-upload-skill.git
+git clone https://github.com/leorepro/jira-upload-skill.git
 cd jira-upload-skill
 
 # Copy the skill folder into Claude Code's skills directory

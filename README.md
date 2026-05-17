@@ -32,7 +32,7 @@ Skill 內建安全要求：你的 Atlassian API token 一律從 `~/.netrc`（chm
 
 ```bash
 # Clone 或下載這個 repo
-git clone https://github.com/<your-username>/jira-upload-skill.git
+git clone https://github.com/leorepro/jira-upload-skill.git
 cd jira-upload-skill
 
 # 把 skill 目錄複製到 Claude Code 的 skills 路徑
