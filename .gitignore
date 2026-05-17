@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local secrets — defense in depth, this repo should never contain tokens
+.netrc
+.env
+.env.*
+*.token
